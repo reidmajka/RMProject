@@ -7,3 +7,4 @@
 <br><br>Notes: unsure if I should analyse BOTH traffic reduction AND accidents, or only one. Need to find a way to effectively consolidate data sources (as of now, can only find data sources by one city at a time).
 
 <br><br>update 1 (8 Feb): Seattle appears to have traffic data, bike lane data, along with a few other datasets involving city and urban planning data. will add raw data files to GitHub repo to begin reviewing
+<br><br>@Heather - are you aware of how to extract datasets from arcGIS? https://data-seattlecitygis.opendata.arcgis.com/maps/SeattleCityGIS::speed-limit-map/explore?location=47.611537%2C-122.305612%2C10.65
